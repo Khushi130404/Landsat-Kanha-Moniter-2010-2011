@@ -9,11 +9,11 @@ from PyQt5.QtCore import QVariant
 # ------------------------
 folders = [
     {
-        "path": r"D:\Landsat_Kanha_Moniter_2005_2006\USGS\Landsat_4_5\Mask\NDVI_Corrected",
+        "path": r"D:\Landsat_Kanha_Moniter_2010_2011\USGS\Landsat_4_5\Mask\NDVI_Corrected",
         "sensor": "Landsat4/5 (TM)"
     },
     {
-        "path": r"D:\Landsat_Kanha_Moniter_2005_2006\USGS\Landsat_7\Mask\NDVI",
+        "path": r"D:\Landsat_Kanha_Moniter_2010_2011\USGS\Landsat_7\Mask\NDVI",
         "sensor": "Landsat7 (ETM+)"
     }
 ]
