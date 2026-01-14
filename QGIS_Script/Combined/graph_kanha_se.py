@@ -59,5 +59,5 @@ def plot_ndvi_chronological(
 
 plot_ndvi_chronological(
     layer_name="se_kanha_table",
-    title="NDVI Time Series - South East Kanha (2005-2006)"
+    title="NDVI Time Series - South East Kanha (2010-2011)"
 )
